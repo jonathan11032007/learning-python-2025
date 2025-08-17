@@ -3,6 +3,10 @@ Tujuan dari proyek ini adalah untuk mempelajari dasar-dasar Python, memahami str
 
 "Terbentur, Terbentur, Terbentuk" - Tan Malaka
 
+
+
+
+
 "The goal of this project is to learn the basics of Python, understand data structures, and begin to build a foundation for exploring machine learning and AI." (Along with Detailed Explanations 🤫)
 
 if you want to feedback me just let me know
