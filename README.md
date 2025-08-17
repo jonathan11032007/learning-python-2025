@@ -5,7 +5,7 @@ Tujuan dari proyek ini adalah untuk mempelajari dasar-dasar Python, memahami str
 
 ---
 
-"The goal of this project is to learn the basics of Python, understand data structures, and begin to build a foundation for exploring machine learning and AI." (Along with Detailed Explanations 🤫)
+The goal of this project is to learn the basics of Python, understand data structures, and begin to build a foundation for exploring machine learning and AI. (Along with Detailed Explanations 🤫)
 
 "Battered, Battered, Formed" - Tan Malaka
 
